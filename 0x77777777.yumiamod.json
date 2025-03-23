@@ -1,0 +1,21 @@
+{
+    "fdata_hash": 2004318071,
+    "files": [
+        {
+            "filename": "TexturePack_2k_001_keyguide_x64.g1t",
+            "name_hash": 3624257284,
+            "tkid_hash": 2948515340,
+            "string_size": 13,
+            "f_extradata": "/W1z8QIAAAAFAAAAAQAAAGRsndYFAAAAAQAAAGCS2g8AAAAAAAAQAA==",
+            "r_extradata": "AAAAAAIAAAAFAAAAAQAAAGRsndYFAAAAAQAAAGCS2g8AAAAAAAAQAA=="
+        },
+        {
+            "filename": "TexturePack_4k_001_keyguide_x64.g1t",
+            "name_hash": 3843112002,
+            "tkid_hash": 2948515340,
+            "string_size": 13,
+            "f_extradata": "do0YjAIAAAAFAAAAAQAAAGRsndYFAAAAAQAAAGCS2g8AAAAAAAAQAA==",
+            "r_extradata": "AAAAAAIAAAAFAAAAAQAAAGRsndYFAAAAAQAAAGCS2g8AAAAAAAAQAA=="
+        }
+    ]
+}
